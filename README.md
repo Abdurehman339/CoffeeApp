@@ -10,14 +10,12 @@ This is a React Native-based mobile application designed for coffee lovers to ea
 
 ## Features:
 
-- **User Authentication**: Log in or sign up securely.
 - **Coffee Menu**: A wide variety of coffee options.
 - **Custom Orders**: Add your personal touch to every order.
 - **Order History**: View previous orders and reorder with ease.
 - **Favourite Listings**: Mark and store your favorite coffee items.
 - **Cart Management**: Add, remove, or edit items in the cart.
 - **Multiple Payment Methods**: Support for different payment gateways.
-- **Notifications**: Get real-time updates on order status.
 
 ## Tech Stack:
 
